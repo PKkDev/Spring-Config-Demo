@@ -1,2 +1,3 @@
-Envire:
-  Connection: "this is connect to DEV for gateway"
+Description:
+  Version: "1.0"
+  Title: "This is gateway service config from spring config service"
