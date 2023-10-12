@@ -1,6 +1,6 @@
 KeycloakOptions: 
-  Host: "http://127.0.0.1",
-  Port: 8080,
-  Realm: "micro",
-  ClientId: "micro-client",
+  Host: "http://127.0.0.1"
+  Port: 8080
+  Realm: "micro"
+  ClientId: "micro-client"
   ClientSecret: "RZoZOCgZt1UpitaRIx64ccDsWpA3xaq2"
