@@ -2,8 +2,8 @@ Envire:
   Connections:
     NpgSql:
       ConnectionString: "Host=127.0.0.1;Port=5432;Username=admin;Password=asev2pzc;Database=micro"
-  KeycloakOptions: 
-    Host: "http://127.0.0.1",
+  # KeycloakOptions: 
+  #   Host: "http://127.0.0.1",
   #   Port: 8080,
   #   Realm: "micro",
   #   ClientId: "micro-client",
