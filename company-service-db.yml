@@ -1,3 +1,0 @@
-Connections:
-  NpgSql:
-    ConnectionString: "Host=127.0.0.1;Port=5432;Username=admin;Password=asev2pzc;Database=micro"
